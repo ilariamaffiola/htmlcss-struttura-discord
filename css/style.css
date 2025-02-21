@@ -49,6 +49,12 @@ header{
     width: 780px;
     height: 385px;
 }
+/*Quinto layout*/
+.gr-col{
+    width: 1180px;
+    height: 677px;
+}
+
 
 
 
@@ -87,4 +93,7 @@ header{
 }
 .bg-grey{
     background-color: #d3d3d3;
+}
+.bg-green{
+    background-color: #218b21;
 }
